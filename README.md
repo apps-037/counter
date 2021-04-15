@@ -2,6 +2,10 @@
 
 It increments, resets and decrements the counter as you click the buttons. 
 
+# Local Setup:
+ 1. Open command prompt and locate folder. run 'python manage.py runserver'
+ 2. Demo will be live at http://127.0.0.1:8000/helloworld/
+
 # Screenshots
 
 <img width="720" alt="ss1" src="https://user-images.githubusercontent.com/60502274/114864260-666bbe80-9e0e-11eb-9dc3-02d63c5c288e.PNG">
