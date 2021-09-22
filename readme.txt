@@ -5,7 +5,7 @@ You can install the app using manage.py file.
 cd counter
 python manage.py startapp counterapp  ------> counterapp folder is created with all files in it except urls.py file which we copy from counter folder to this folder.
 
-
+  
 create static(images, css and js files) and templates(html files) folders in the main counter folder. 
 we need to include these three folders into the project so we go to counter -> settings.py and 
          -under INSTALLED APPS we write - 'counterapp' 
